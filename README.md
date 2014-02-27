@@ -1,6 +1,6 @@
 #Screen Capture
 by [Guillaume Molter](http://guillaumemolter.me) for [B+G & Partners SA](http://bgcom.ch/)
-##A screen capture plugin for Wordpress based on PhantomJS
+##A screenshot plugin for Wordpress based on PhantomJS
 
 
 ###Disclaimer
